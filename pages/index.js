@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          If you landing in this page and have some Ideas,
+          If you landing on this page and have some Ideas, <br />
           Please reach me on <a href="https://www.linkedin.com/in/sofianhw/">Linkedin</a> or <a href="https://www.instagram.com/sofianhw/">Instagram</a>
         </p>
       </main>
