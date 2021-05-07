@@ -5,8 +5,10 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>SlipiconValley</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="keywords" content="bukit algoritma, silicon valley, teknologi, teknopolis, slipicon valley" />
+        <meta name="description" content="Asal muasal banyak ekosistem perusahaan rintisan (startup), tempat bertemunya Industri, Investor, dan Inventor"/>
       </Head>
 
       <main className={styles.main}>
